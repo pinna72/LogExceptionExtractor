@@ -1,0 +1,10 @@
+2022-09-23 02:46:00,654 ERROR [pool-345659-thread-1] KafkaTracerHelper -    
+   ***HEADER-CORRELATIONID:, ***HEADER-PRINCIPAL-USERNAME:, ***HEADER-TENANT:, ***HEADER-WAR:
+Failed to update metadata after 2000 ms.
+ ----------------------------
+org.apache.kafka.common.errors.TimeoutException: Failed to update metadata after 2000 ms.
+2022-09-23 02:46:10,296 ERROR [pool-345660-thread-1] KafkaTracerHelper -    
+   ***HEADER-CORRELATIONID:, ***HEADER-PRINCIPAL-USERNAME:, ***HEADER-TENANT:, ***HEADER-WAR:
+Failed to update metadata after 2000 ms.
+ ----------------------------
+org.apache.kafka.common.errors.TimeoutException: Failed to update metadata after 2000 ms.
